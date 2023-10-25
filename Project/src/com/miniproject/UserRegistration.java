@@ -4,7 +4,7 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 public class UserRegistration extends UserOpration {
-	public static void userRegistration() throws SQLException { //Take the input from User for registration
+	public static void userRegistration() throws SQLException { //Take the input from User for registration.
 
 			System.out.println("please fill the below deatils for registration");
 			Scanner sc =new Scanner(System.in);
